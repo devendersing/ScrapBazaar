@@ -6,7 +6,7 @@ const AboutPage = () => {
     <main>
       <section className="bg-gradient-to-b from-neutral-custom to-white py-12">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl font-bold mb-4">About ScrapWala</h1>
+          <h1 className="text-4xl font-bold mb-4">About ScrapBekko</h1>
           <p className="text-lg text-gray-700 max-w-3xl mx-auto mb-8">
             Learn more about our mission, values, and commitment to sustainable waste management.
           </p>
@@ -27,13 +27,13 @@ const AboutPage = () => {
             <div className="md:w-1/2">
               <h2 className="text-3xl font-bold font-heading mb-6">Our Story</h2>
               <p className="text-gray-700 mb-4">
-                ScrapWala was founded in 2018 with a simple mission: to make recycling easy and rewarding for everyone. What started as a small local operation has grown into a trusted scrap collection service, serving thousands of customers across major cities.
+                ScrapBekko was founded in 2004 with a simple mission: to make recycling easy and rewarding for everyone. What started as a small local operation has grown into a trusted scrap collection service, serving thousands of customers across major cities.
               </p>
               <p className="text-gray-700 mb-4">
                 Our team of dedicated professionals is committed to providing exceptional service while promoting environmental sustainability. We believe that proper waste management is not just good for the planet, but can also be economically beneficial for our customers.
               </p>
               <p className="text-gray-700 mb-4">
-                Today, ScrapWala continues to innovate and improve our services, making it easier than ever for households and businesses to responsibly dispose of their recyclable materials while earning money.
+                Today, ScrapBekko continues to innovate and improve our services, making it easier than ever for households and businesses to responsibly dispose of their recyclable materials while earning money.
               </p>
             </div>
           </div>

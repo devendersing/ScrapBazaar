@@ -67,9 +67,9 @@ const HomePage = () => {
             </div>
             
             <div className="md:w-1/2">
-              <h2 className="text-3xl font-bold font-heading mb-6">About ScrapWala</h2>
+              <h2 className="text-3xl font-bold font-heading mb-6">About ScrapBekko</h2>
               <p className="text-gray-700 mb-4">
-                ScrapWala is a leading scrap collection and recycling service committed to promoting sustainable waste management practices. We make it easy for households and businesses to responsibly dispose of their recyclable materials while earning money.
+                ScrapBekko is a leading scrap collection and recycling service committed to promoting sustainable waste management practices. We make it easy for households and businesses to responsibly dispose of their recyclable materials while earning money.
               </p>
               <p className="text-gray-700 mb-4">
                 Our mission is to reduce landfill waste by efficiently collecting and recycling scrap materials, contributing to a cleaner environment for future generations.

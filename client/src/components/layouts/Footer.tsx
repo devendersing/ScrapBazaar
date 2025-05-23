@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="flex items-center mb-4">
               <span className="material-icons text-primary text-3xl mr-2">recycling</span>
               <h3 className="text-2xl font-heading font-bold">
-                Scrap<span className="text-secondary">Wala</span>
+                Scrap<span className="text-secondary">Bekko</span>
               </h3>
             </div>
             <p className="text-gray-400 mb-4">
@@ -71,15 +71,15 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-start">
                 <span className="material-icons text-gray-400 mr-2 mt-0.5">location_on</span>
-                <span className="text-gray-400">123 Green Street, Eco City, India</span>
+                <span className="text-gray-400"> 4/48 Veena enclave,Nangloi,Delhi India</span>
               </li>
               <li className="flex items-start">
                 <span className="material-icons text-gray-400 mr-2 mt-0.5">phone</span>
-                <span className="text-gray-400">+91 9876543210</span>
+                <span className="text-gray-400">+91 8178810828</span>
               </li>
               <li className="flex items-start">
                 <span className="material-icons text-gray-400 mr-2 mt-0.5">email</span>
-                <span className="text-gray-400">info@scrapwala.com</span>
+                <span className="text-gray-400">info@scrapbekko.com</span>
               </li>
               <li className="flex items-start">
                 <span className="material-icons text-gray-400 mr-2 mt-0.5">schedule</span>

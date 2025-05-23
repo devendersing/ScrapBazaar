@@ -26,7 +26,7 @@ const Header = () => {
           <span className="material-icons text-primary text-3xl mr-2">recycling</span>
           <Link href="/">
             <h1 className="text-2xl font-heading font-bold text-primary">
-              Scrap<span className="text-secondary">Wala</span>
+              Scrap<span className="text-secondary">Bekko</span>
             </h1>
           </Link>
         </div>
